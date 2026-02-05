@@ -1,7 +1,6 @@
 # Top-Conference-Best-Papers
 This repo collects Best Paper award papers from ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, AAAI, etc., from 2022 to 2026.
 
-
 ## Preface
 
 I put this repo together for a simple reason: as a young researcher, I want to develop better research taste.
@@ -33,6 +32,8 @@ Pass 2: zoom in (learn how winners think and write).
 Pick papers close to your own area and read them carefully. The goal is not to copy details, but to ask: “In the same problem space, why didn’t I think of this?” I like using an LLM to backtrack the likely chain of reasoning that led to the idea, then study how the paper frames the story and designs the experiments. Try to step back from the math and implementation and learn the author’s taste: what they chose to emphasize, what they cut, and how they made the contribution feel inevitable.
 
 If you do both passes, you get two things at once: a better sense of the field’s direction, and a clearer standard for what “high-impact” work looks like.
+
+Note: To keep this list concise and focused, I left out some Outstanding Paper nominations since there are far more of them than Best Paper winners.
 
 # Best Papers from Top-Conference
 
